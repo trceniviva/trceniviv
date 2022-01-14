@@ -1,3 +1,4 @@
 # trceniviv
 
-This should be myu profile readme
+This should be my profile readme
+It should appear on my profile page, but isn't yet :( 
